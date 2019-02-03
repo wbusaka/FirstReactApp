@@ -58,5 +58,17 @@ export const robots=[
         name:'Patricia Lebsack',
         username: 'Karianne',
         email: 'Julliane.oconnor@kory.org'
+    },
+    {
+        id:11,
+        name:'Kwadwo Aernie',
+        username: 'Kojo',
+        email: 'kojo.asamo@kory.org'
+    },
+    {
+        id:12,
+        name:'Patricia Lebsack',
+        username: 'Karianne',
+        email: 'Julliane.oconnor@kory.org'
     }
 ]
